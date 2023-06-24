@@ -1,0 +1,38 @@
+body {
+  color: white;
+  background-image: url("https://t4.ftcdn.net/jpg/05/72/54/67/360_F_572546714_2mn39TUv2f5Lmg7JRT9yvSkuTJERGyg8.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #ca0f0f;
+  }
+  body{
+    font-family: 'Tilt Prism', cursive;
+    font-size: 50px;
+  }
+
+  
+table,tr,th,td {
+  border: groove 4px rgb(15, 228, 200);
+}
